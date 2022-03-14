@@ -62,7 +62,7 @@
 
 
 /* MSTP stuff */
-#define MSTP_VERSION     0x03
+#define MSTP_VERSION     0x00
 
 
 struct xstp_mitm_args {
